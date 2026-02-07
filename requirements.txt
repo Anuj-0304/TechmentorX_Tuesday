@@ -1,0 +1,23 @@
+# Core Dependencies
+streamlit==1.31.0
+pandas==2.1.4
+numpy==1.26.3
+
+# Machine Learning & Deep Learning
+tensorflow==2.15.0
+keras==2.15.0
+
+# Data Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Image Processing
+Pillow==10.2.0
+opencv-python==4.9.0.80
+
+# HTTP Requests
+requests==2.31.0
+
+# Optional: For better performance
+scikit-learn==1.4.0
