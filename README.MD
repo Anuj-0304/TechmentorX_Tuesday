@@ -10,3 +10,5 @@ smart farming recommendations, and decision-support features to help users make 
 faster, and more sustainable agricultural decisions.
 
 Mainly solves the problem of youth farmers and revolutionize the agriculture sector.
+
+CNN-->Input image-->crop leaf image--->disease name-->with particular accuracy-->ai advisory-->in structured format.
