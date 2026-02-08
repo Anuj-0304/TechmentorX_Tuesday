@@ -8,3 +8,5 @@ To solve this problem,
 a centralized AgriTech web application is needed that can deliver real-time data,
 smart farming recommendations, and decision-support features to help users make better,
 faster, and more sustainable agricultural decisions.
+
+Mainly solves the problem of youth farmers and revolutionize the agriculture sector.
